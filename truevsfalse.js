@@ -4,11 +4,12 @@
 // const bullyan = false;
 
 //truely
-const emptySpace = " ";
+// const emptySpace = " ";
+const name = undefined;
 
 
 
-if (emptySpace){
+if (name){
     console.log("condition is true");
 }
 else {
